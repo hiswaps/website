@@ -20,7 +20,7 @@ body {
 
 .name {
     text-align: center;
-    color: red;
+    color: #d12329;
     text-shadow: -1px 0 white, 0 5px white, 1px 0 white, 0 -1px white;
     font-weight: 900;
     font-size: 120px;
@@ -54,6 +54,8 @@ h2 {
 /* Cursor */
 .text-type > .txt {
   border-right: 0.2rem solid red;
+  color: #d12329;
+  text-shadow: -1px 0 white, 0 3px white, 1px 0 white, 0 -1px white;
 }
 
 @media(min-width: 1200px) {
