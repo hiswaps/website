@@ -3,7 +3,8 @@
 body {
   font-family: 'Raleway', sans-serif;
   height: 100vh;
-  background: #333 url('https://image.ibb.co/n5A2HU/showcase.jpg') no-repeat center center / cover;
+  background: #333 url('background.jpg') no-repeat center center / cover;
+  /* background: #333 url('https://image.ibb.co/n5A2HU/showcase.jpg') no-repeat center center / cover; */
   color: white;
   overflow:hidden;
   padding-bottom: 3cm;
@@ -20,6 +21,7 @@ body {
 .name {
     text-align: center;
     color: red;
+    text-shadow: -1px 0 white, 0 5px white, 1px 0 white, 0 -1px white;
     font-weight: 900;
     font-size: 120px;
 }
