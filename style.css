@@ -4,7 +4,6 @@ body {
   font-family: 'Raleway', sans-serif;
   height: 100vh;
   background: #333 url('background.jpg') no-repeat center center / cover;
-  /* background: #333 url('https://image.ibb.co/n5A2HU/showcase.jpg') no-repeat center center / cover; */
   color: white;
   overflow:hidden;
   padding-bottom: 3cm;
@@ -13,17 +12,23 @@ body {
 .begin {
     text-align: center;
     color: white;
-    font-weight: 500;
-    font-size: 50px;
+    font-weight: 570;
+    font-size: 55px;
     padding-top: 0cm;
+    text-shadow: -1px 0 #d12329, 0 3px #d12329, 1px 0 #d12329, 0 -1px #d12329;
 }
 
 .name {
     text-align: center;
     color: #d12329;
-    text-shadow: -1px 0 white, 0 5px white, 1px 0 white, 0 -1px white;
+    text-shadow: -1px 0 white, 0 3px white, 1px 0 white, 0 -1px white;
     font-weight: 900;
-    font-size: 120px;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
 }
 
 .container {
@@ -55,7 +60,8 @@ h2 {
 .text-type > .txt {
   border-right: 0.2rem solid white;
   color: #d12329;
-  text-shadow: -1px 0 white, 0 3px white, 1px 0 white, 0 -1px white;
+  text-shadow: -1px 0 white, 0 2.1px white, 1px 0 white, 0 -1px white;
+  font-size: 43px;
 }
 
 @media(min-width: 1200px) {
@@ -82,4 +88,8 @@ h2 {
   h2 {
     font-size: 1.5rem;
   }
+}
+
+.start {
+  font-size: 43px;
 }
