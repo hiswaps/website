@@ -14,7 +14,7 @@ body {
     color: white;
     font-weight: 570;
     font-size: 55px;
-    padding-top: 0cm;
+    padding-top: 4.7cm; /* was 0cm previously */
     text-shadow: -1px 0 #d12329, 0 3px #d12329, 1px 0 #d12329, 0 -1px #d12329;
 }
 
@@ -98,13 +98,24 @@ h2 {
 
   text-align: center;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   width: 140px;
   height: 50px;
   font-size: 27px;
   font-weight: bold;
   background-color: #d12329;
-  margin-left: 45%;
-  margin-top: 2em;
+  /*margin-left: 45%; */
+  margin-top: 0.75em;
   
 }
 
+.butts {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 5cm;
+}
