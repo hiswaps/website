@@ -143,6 +143,16 @@ h2 {
   font-size: 20px;
 } 
 
+.linkedin:hover{
+  /*color: black; */
+  background-color: #0d75a5;
+}
+
+.github:hover{
+  /*color: black; */
+  background-color: black;
+}
+
 /*
 .linkedin {
 
