@@ -93,3 +93,18 @@ h2 {
 .start {
   font-size: 43px;
 }
+
+.linkedin {
+
+  text-align: center;
+  color: white;
+  width: 140px;
+  height: 50px;
+  font-size: 27px;
+  font-weight: bold;
+  background-color: #d12329;
+  margin-left: 45%;
+  margin-top: 2em;
+  
+}
+
