@@ -108,6 +108,56 @@ h2 {
   background-color: #d12329;
   /*margin-left: 45%; */
   margin-top: 0.75em;
+  padding-right: 5.8px;
+  
+}
+
+.github {
+
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 140px;
+  height: 50px;
+  font-size: 27px;
+  font-weight: bold;
+  background-color: #d12329;
+  /*margin-left: 45%; */
+  margin-top: 0.75em;
+  padding-right: 6px;
+  
+}
+
+
+
+.butts {
+  /*text-align: center; */
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 5cm;
+  text-align: center;
+  font-size: 20px;
+} 
+
+/*
+.linkedin {
+
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 140px;
+  height: 50px;
+  font-size: 27px;
+  font-weight: bold;
+  background-color: #d12329;
+  /*margin-left: 45%; */
+  /*margin-top: 0.75em;
   
 }
 
@@ -122,3 +172,4 @@ h2 {
   margin-bottom: 5cm;
 }
 
+*/
