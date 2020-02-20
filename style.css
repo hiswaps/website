@@ -14,7 +14,7 @@ body {
     color: white;
     font-weight: 570;
     font-size: 55px;
-    padding-top: 4.7cm; /* was 0cm previously */
+    padding-top: 2cm; /* was 0cm previously */
     text-shadow: -1px 0 #d12329, 0 3px #d12329, 1px 0 #d12329, 0 -1px #d12329;
 }
 
