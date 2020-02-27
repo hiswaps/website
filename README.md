@@ -1,3 +1,2 @@
-# Swapnil's Website
+# Swapnil's Website Template and Code
 
-Personal website of Swapnil Joshi
